@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NBSBanking - Android Architecture & Engineering Guide
 
 Welcome to the **NBSBanking** codebase repository. This project is a modern, modular Android application built following Clean Architecture principles, MVVM/MVI design patterns, Jetpack Compose, and advanced enterprise security practices.
@@ -114,3 +115,6 @@ graph TD
 1. Open the project in **Android Studio**.
 2. Sync project with Gradle files.
 3. Run `:app:assembleDebug` or deploy to a connected Android device/emulator.
+=======
+# newww
+>>>>>>> 3bb365ee5086730be189b4cfaf519064a334ec88
