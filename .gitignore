@@ -1,0 +1,32 @@
+# IntelliJ / Android Studio
+*.iml
+/.idea/
+.DS_Store
+
+# Gradle
+.gradle
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+output.json
+
+# Local configuration files
+/local.properties
+env.properties
+
+# APKs and build outputs
+*.apk
+*.ap_
+*.aab
+
+# Signing files
+*.jks
+*.keystore
+
+# Memory / profiling files
+*.log
+*.hprof
+
+# Plan
+.artifacts/

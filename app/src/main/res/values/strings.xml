@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">NBS Bank</string>
+
+    <!-- Titles -->
+    <string name="title_app_logo">NBS</string>
+    <string name="title_app_name_splash">NBS Banking</string>
+    <string name="title_post_login_dashboard">Post-Login Dashboard</string>
+    <string name="title_datastore_sample">DataStore Clean Architecture Sample</string>
+    <string name="title_long_list">Long List (Paging 3)</string>
+    <string name="title_add_note">Add New Note</string>
+    <string name="title_random_activity">Random Activity Finder</string>
+
+    <!-- Actions -->
+    <string name="action_reload_data">Reload Data</string>
+    <string name="action_home_mvi">Home MVI</string>
+    <string name="action_user_settings">User Settings (DataStore)</string>
+    <string name="action_nav_demo">Nav Demo</string>
+    <string name="action_note">Note</string>
+    <string name="action_random_activity">Random Activity</string>
+    <string name="action_long_list">Long List (Paging 3)</string>
+    <string name="action_transaction_list">Transaction List (Paging 3)</string>
+    <string name="action_save_string">Save String</string>
+    <string name="action_save_time">Save Current Time (Long)</string>
+    <string name="action_add_balance">Add +100.50 Balance (Double)</string>
+    <string name="action_save_profile">Save UserProfile (Object)</string>
+    <string name="action_save_secure_data">Save Secure Data (Encrypted)</string>
+    <string name="action_test_eager_read">Test Synchronous Eager Read</string>
+    <string name="action_test_suspend_read">Test Suspend Get Read (with Log)</string>
+    <string name="action_clear_datastore">Clear All DataStore Keys</string>
+    <string name="action_detail">Detail</string>
+    <string name="action_get_status">Get Status</string>
+    <string name="action_dismiss_banner">Dismiss Banner</string>
+    <string name="action_range">Range</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_saving">Saving...</string>
+    <string name="action_save_note">Save Note</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_fetching">Fetching...</string>
+    <string name="action_get_random_activity">Get Random Activity</string>
+    <string name="action_back">Back</string>
+
+    <!-- Labels -->
+    <string name="label_stored_preferences">Stored Preferences (Reactive Flow):</string>
+    <string name="label_dark_mode">Dark Mode (Boolean):</string>
+    <string name="label_notification_count">Notification Count (Int): %1$d</string>
+    <string name="label_font_scale">Font Scale (Float): %1$s</string>
+    <string name="label_unread_notifications">Unread Notifications: %1$d</string>
+    <string name="label_status">Status: %1$s</string>
+    <string name="label_type">Type: %1$s</string>
+    <string name="label_participants">Participants: %1$s</string>
+    <string name="label_price">Price: $%1$s</string>
+    <string name="label_link">Link: %1$s</string>
+    <string name="label_item_number">Item #%1$d</string>
+
+    <!-- Hints -->
+    <string name="hint_enter_username">Enter Username (String)</string>
+    <string name="hint_profile_nickname">Profile Nickname</string>
+    <string name="hint_profile_role">Profile Role</string>
+    <string name="hint_secure_token">Secure Token (Encrypted)</string>
+    <string name="hint_secret_pin">Secret PIN (Encrypted)</string>
+    <string name="hint_note_content">Note Content</string>
+
+    <!-- Messages -->
+    <string name="message_app_slogan">Secure. Simple. Smart.</string>
+    <string name="message_loading_content">Loading Content...</string>
+    <string name="message_loading_status">Loading Status...</string>
+    <string name="message_no_transactions">No transactions found for selected range</string>
+    <string name="message_no_items_found">No items found</string>
+    <string name="message_saving_note">Saving note...</string>
+    <string name="message_loading_notes">Loading Notes...</string>
+    <string name="message_no_notes">No notes available. Tap + to add a note.</string>
+    <string name="message_finding_activity">Finding something fun to do...</string>
+    <string name="message_tap_button_random_activity">Tap the button above to get a random activity!</string>
+
+    <!-- Errors -->
+    <string name="error_message">Error: %1$s</string>
+    <string name="error_failed_to_load_more">Failed to load more: %1$s</string>
+
+</resources>

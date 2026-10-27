@@ -1,0 +1,21 @@
+<resources>
+    <!-- Label -->
+    <string name="label_account">Rekening</string>
+    <string name="label_current_balance">Saldo Sekarang</string>
+    <string name="label_current_saving">Tabungan Sekarang</string>
+    <string name="label_choosen_account">Rekening terpilih</string>
+
+    <!-- Action -->
+    <string name="action_copy">Salin</string>
+    <string name="action_see_detail">Lihat Detail</string>
+    <string name="action_show">Di Tampilkan</string>
+    <string name="action_hide">Di Sembunyikan</string>
+    <string name="action_back">Kembali</string>
+
+    <!-- Other -->
+    <string name="text_hide_balance">Sembunyikan Saldo</string>
+    <string name="text_show_balance"></string>
+    <string name="tampilkan_saldo">Tampilkan saldo</string>
+    <string name="other_account">Rekening Lainnya</string>
+    <string name="action_close">Tutup</string>
+</resources>
