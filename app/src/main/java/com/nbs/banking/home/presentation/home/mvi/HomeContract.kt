@@ -12,7 +12,7 @@ sealed interface HomeIntent {
 sealed interface HomeEvent {
     data object HomeContentLoading : HomeEvent
     data class HomeContentLoaded(val homeContent: HomeContent) : HomeEvent
-    data class HomeContentErgit statusror(val error: Throwable) : HomeEvent
+    data class HomeContentError(val error: Throwable) : HomeEvent
 
     data object StatusLoading : HomeEvent
     data class StatusLoaded(val status: Boolean) : HomeEvent
